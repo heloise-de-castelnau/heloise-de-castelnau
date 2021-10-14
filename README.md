@@ -11,7 +11,7 @@
 
 ##  🙋 About Me 
 
-- 👩‍💻 I’m currently working on the organization and optimization of a start-up database on intercontinental health mutual.
+- 👩‍💻 I’m currently working on the organization and optimization of an intercontinental health mutual start-up database .
 
 - 👩‍💼💼 This semester I am learning  **Machine Learning, Python for Data Analysis, DIA Bootstrap, Advanced Database managment and Design attern & Software development**, so watch out for the next projects publications ! 
 
@@ -42,7 +42,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/h%C3%A9lo%C3%AFse-de-castelnau-/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/h%C3%A9lo%C3%AFse-de-castelnau-/"><img src="https://img.icons8.com/windows/32/000000/linkedin.png"/></a>
 <a href = "mailto:heloise.de_castelnau@edu.devinci.fr?Subject=Github%20%3A%20"><img src="https://img.icons8.com/windows/32/000000/filled-message.png"/></a>
 
 </p>
