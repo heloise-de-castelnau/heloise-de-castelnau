@@ -42,7 +42,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "www.linkedin.com/in/héloïse-de-castelnau-"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/h%C3%A9lo%C3%AFse-de-castelnau-/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 
 </p>
