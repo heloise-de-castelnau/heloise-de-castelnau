@@ -19,7 +19,9 @@
 
 - 🤝 👀  I am also looking for a DataScientist / Data Engineer internship of 4 to 5 months from April 4, 2022 
 
- 
+<br/>
+
+
 ## 🧰 Languages and Tools:
 
 <p align="left"> 
@@ -35,17 +37,19 @@
     <img src="https://img.icons8.com/color/48/000000/oracle-logo.png"/>
     <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 </p>
-
 <br/>
-
 
 ## Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/h%C3%A9lo%C3%AFse-de-castelnau-/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-
+<a href = "mailto:heloise.de_castelnau@edu.devinci.fr?Subject=Github%20%3A%20"><img src="https://img.icons8.com/windows/32/000000/filled-message.png"/></a>
 
 </p>
+<br/>
+
+
+
 
 <!---
 heloise-de-castelnau/heloise-de-castelnau is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
