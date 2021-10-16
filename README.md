@@ -24,20 +24,26 @@
 
 ## 🧰 Languages and Tools:
 
-<p align="left"> 
-    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-    <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-    <img src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png"/>  
-    <img src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png"/>
-    <img src="https://img.icons8.com/fluency/48/000000/matlab.png"/>
-    <img src="https://img.icons8.com/color/48/000000/solidworks.png"/>    
-    <img src="https://img.icons8.com/fluency/48/000000/microsoft-office-2019.png"/>
-    <img src="https://img.icons8.com/fluency/48/000000/spyder-ide.png"/>
-    <img src="https://img.icons8.com/color/48/000000/oracle-logo.png"/>
-    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-</p>
-<br/>
+**Programming Languages**
+
+<img title="Python" alt="Python" width="40px" src="https://img.icons8.com/color/48/000000/python--v1.png" />|<img alt="C" title="Csharp" width="40px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png">|<img title="R" alt="R" width="40px" src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png">
+|--|--|--|
+
+**Libraries and Frameworks**
+
+<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">|<img title="Keras" alt="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png">|<img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">|<img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
+|--|--|--|--|--|
+
+**Databases**
+
+<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://img.icons8.com/color/48/000000/oracle-logo.png">|  
+|--|--|--|
+
+**Tools**
+
+<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png">|<img title="ZSH" alt="ZSH" width="40px" src="https://img.icons8.com/fluency/48/000000/matlab.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/color/48/000000/solidworks.png">|<img title="git" alt="git" width="40px" src="https://img.icons8.com/fluency/48/000000/microsoft-office-2019.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://img.icons8.com/fluency/48/000000/spyder-ide.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://img.icons8.com/color/48/000000/mysql-logo.png">
+|--|--|--|--|--|--|
+
 
 ## Connect with me:
 <p align="left">
