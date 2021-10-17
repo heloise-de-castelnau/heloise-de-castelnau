@@ -29,11 +29,6 @@
 <img title="Python" alt="Python" width="40px" src="https://img.icons8.com/color/48/000000/python--v1.png" />|<img alt="C" title="Csharp" width="40px" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png">|<img title="R" alt="R" width="40px" src="https://img.icons8.com/external-becris-flat-becris/64/000000/external-r-data-science-becris-flat-becris.png">
 |--|--|--|
 
-**Libraries and Frameworks**
-
-<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">|<img title="Keras" alt="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png">|<img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
-|--|--|--|--|
-
 **Databases**
 
 <img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="Oracle" alt="Oracle" width="40px" src="https://img.icons8.com/color/48/000000/oracle-logo.png">|  
