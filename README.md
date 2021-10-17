@@ -41,7 +41,7 @@
 
 **Tools**
 
-<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png">|<img title="ZSH" alt="ZSH" width="40px" src="https://img.icons8.com/fluency/48/000000/matlab.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/color/48/000000/solidworks.png">|<img title="git" alt="git" width="40px" src="https://img.icons8.com/fluency/48/000000/microsoft-office-2019.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://img.icons8.com/fluency/48/000000/spyder-ide.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://img.icons8.com/color/48/000000/mysql-logo.png">
+<img title="Visual-Studio" alt="Visual-Studio" width="40px" src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png">|<img title="Matlab" alt="Matlab" width="40px" src="https://img.icons8.com/fluency/48/000000/matlab.png">|<img title="SolidWorks" alt="SolidWorks" width="40px" src="https://img.icons8.com/color/48/000000/solidworks.png">|<img title="microsoft-office" alt="microsoft-office" width="40px" src="https://img.icons8.com/fluency/48/000000/microsoft-office-2019.png">|<img title="spyder" alt="spyder" width="40px" src="https://img.icons8.com/fluency/48/000000/spyder-ide.png">|<img title="MySQL" alt="mysql" width="40px" src="https://img.icons8.com/color/48/000000/mysql-logo.png">
 |--|--|--|--|--|--|
 
 
