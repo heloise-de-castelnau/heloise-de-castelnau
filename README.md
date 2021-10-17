@@ -36,7 +36,7 @@
 
 **Databases**
 
-<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://img.icons8.com/color/48/000000/oracle-logo.png">|  
+<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="Oracle" alt="Oracle" width="40px" src="https://img.icons8.com/color/48/000000/oracle-logo.png">|  
 |--|--|--|
 
 **Tools**
