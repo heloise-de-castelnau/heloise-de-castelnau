@@ -13,7 +13,7 @@
 
 - 👩‍💻 I’m currently working on the organization and optimization of an intercontinental health mutual start-up database .
 
-- 👩‍💼💼 This semester I am learning  **Machine Learning, Python for Data Analysis, DIA Bootstrap, Advanced Database managment and Design attern & Software development**, so watch out for the next projects publications ! 
+- 👩‍💼💼 This semester I am learning  **Machine Learning, Python for Data Analysis, DIA Bootstrap, Advanced Database managment and Design pattern & Software development**, so watch out for the next projects publications ! 
 
 - 📫 You can reach me on  **heloise.de_castelnau@edu.devinci.fr** if you have any questions or remarks
 
