@@ -48,6 +48,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=heloise-de-castelnau&layout=compact&theme=cobalt" />
 </a>
 
+<i>NOTE: 'Most Used Languages' does not indicate my skill level or something like that, it's a GitHub metric of which languages i have the most code on GitHub.</i>
 
 ## Connect with me:
 <p align="left">
