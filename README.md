@@ -17,7 +17,6 @@
 
 - 📫 You can reach me on  **heloise.de_castelnau@edu.devinci.fr** if you have any questions or remarks
 
-- 🤝 👀  I am also looking for a DataScientist / Data Engineer internship of 4 to 5 months from April 4, 2022 
 
 <br/>
 
