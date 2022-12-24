@@ -1,5 +1,5 @@
 <h1 align="center">Hello there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Héloïse</h1>
-<h3 align="center">I'm a student in Data & AI student from ESILV engineering school, currently doing my 5th-year at UCLA </h3>
+<h3 align="center">I'm a student in Data & AI student from ESILV, currently doing my 5th-year at UCLA </h3>
 
 <br/>
 <br/>
@@ -35,8 +35,8 @@
 
 **Tools**
 
-<img title="Visual-Studio" alt="Visual-Studio" width="40px" src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png">|<img title="Matlab" alt="Matlab" width="40px" src="https://img.icons8.com/fluency/48/000000/matlab.png">|<img title="SolidWorks" alt="SolidWorks" width="40px" src="https://img.icons8.com/color/48/000000/solidworks.png">|<img title="microsoft-office" alt="microsoft-office" width="40px" src="https://img.icons8.com/fluency/48/000000/microsoft-office-2019.png">|<img title="spyder" alt="spyder" width="40px" src="https://img.icons8.com/fluency/48/000000/spyder-ide.png">|<img title="MySQL" alt="mysql" width="40px" src="https://img.icons8.com/color/48/000000/mysql-logo.png">
-|--|--|--|--|--|--|
+<img title="Visual-Studio" alt="Visual-Studio" width="40px" src="https://img.icons8.com/fluency/48/000000/visual-studio-2019.png">|<img title="Matlab" alt="Matlab" width="40px" src="https://img.icons8.com/fluency/48/000000/matlab.png">|<img title="SolidWorks" alt="SolidWorks" width="40px" src="https://img.icons8.com/color/48/000000/solidworks.png">|<img title="microsoft-office" alt="microsoft-office" width="40px" src="https://img.icons8.com/fluency/48/000000/microsoft-office-2019.png">|<img title="spyder" alt="spyder" width="40px" src="https://img.icons8.com/fluency/48/000000/spyder-ide.png">|<img title="MySQL" alt="mysql" width="40px" src="https://img.icons8.com/color/48/000000/mysql-logo.png">|<img title="Tableau" alt="tableau" width="40px" src="https://www.lib.washington.edu/dataservices/images/Tableau_Software_logo.png/image">
+|--|--|--|--|--|--|--|
 
 ## 📊 My Github Stats
 
