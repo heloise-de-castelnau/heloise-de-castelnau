@@ -1,5 +1,5 @@
 <h1 align="center">Hello there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Héloïse</h1>
-<h3 align="center">I'm a 4th-year student in Data & AI Engineering at ESILV </h3>
+<h3 align="center">I'm a student in Data & AI student from ESILV engineering school, currently doing my 5th-year at UCLA </h3>
 
 <br/>
 <br/>
@@ -11,9 +11,9 @@
 
 ##  🙋 About Me 
 
-- 👩‍💻 I’m currently working on the organization and optimization of an intercontinental health mutual start-up database .
+- 👩‍💻 I’m currently working on visualisation project! See my last Tableau roject ;).
 
-- 👩‍💼💼 This semester I am learning  **Machine Learning, Python for Data Analysis, DIA Bootstrap, Advanced Database managment and Design pattern & Software development**, so watch out for the next projects publications ! 
+- 👩‍💼💼 This semester I am learning  **Machine Learning, Big Data Managment, Data visualization & Data Science for Accounting and Finance **, so watch out for the next projects publications ! 
 
 - 📫 You can reach me on  **heloise.de_castelnau@edu.devinci.fr** if you have any questions or remarks
 
