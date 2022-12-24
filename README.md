@@ -13,7 +13,7 @@
 
 - 👩‍💻 I’m currently working on visualisation project! See my last Tableau roject ;).
 
-- 👩‍💼💼 This semester I am learning  **Machine Learning, Big Data Managment, Data visualization & Data Science for Accounting and Finance **, so watch out for the next projects publications ! 
+- 👩‍💼💼 This semester I am learning  **Machine Learning, Big Data Managment, Data visualization & Data Science for Accounting and Finance**, so watch out for the next projects publications ! 
 
 - 📫 You can reach me on  **heloise.de_castelnau@edu.devinci.fr** if you have any questions or remarks
 
