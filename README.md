@@ -1,5 +1,5 @@
 <h1 align="center">Hello there<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Héloïse</h1>
-<h3 align="center">I'm a student in Data & AI student from ESILV, currently doing my 5th-year at UCLA </h3>
+<h3 align="center">I'm a student in Data & AI  from ESILV, currently doing my 5th-year at UCLA </h3>
 
 <br/>
 <br/>
